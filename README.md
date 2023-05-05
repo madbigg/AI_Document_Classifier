@@ -14,11 +14,13 @@ This tool uses OpenAI's GPT-3.5-turbo model to classify Markdown documents and m
 * Generate classification suggestions for each file using the GPT-3.5-turbo model.
 * Move the files into corresponding categorized folders.
 
-# 使用方法 Usage
+# 使用方法 
 
 1. 将您的OpenAI API密钥填入API_KEY变量。
 2. 根据需要修改source_folder和categories变量。
 3. 运行document_classifier.py。
+
+# Usage
 
 1. Fill in your OpenAI API key in the API_KEY variable.
 2. Modify the source_folder and categories variables as needed.
